@@ -1,10 +1,15 @@
 
 ![data_visualization_by](https://github.com/osmarlucatero/profile_repo/assets/124906561/b687d40b-cfc5-4221-b322-03632d34bdc0)
 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+ I'm Osmar a happy data analyst with passion for pretty visualizations 
+ 
 
-Hi there! I'm Osmar a happy data analyst with passion for pretty visualizations 
 
-Thing that I like to do: 
+Things that I like to do: 
 
 -Translating numbers and facts to inform strategic business decisions.
 
