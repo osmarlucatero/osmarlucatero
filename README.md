@@ -24,6 +24,7 @@ And much more...
 ![Building-a](https://github.com/osmarlucatero/profile_repo/assets/124906561/2129e278-b964-4d4f-b304-602a70bee019)
 
 <div id="badges">
-  <a href="www.linkedin.com/in/osmar-eduardo-luna-lucatero-0632aa1ab">
+  <a href="https://www.linkedin.com/in/osmar-eduardo-luna-lucatero-0632aa1ab/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
